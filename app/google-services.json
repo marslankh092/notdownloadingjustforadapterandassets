@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80321495209",
+    "firebase_url": "https://fb-download-bec38.firebaseio.com",
+    "project_id": "fb-download-bec38",
+    "storage_bucket": "fb-download-bec38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80321495209:android:31326de02b7fadb1",
+        "android_client_info": {
+          "package_name": "fb.facebookvideodownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80321495209-89kalm6bfr4g70g3birpg5hhlqqahhc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjeO1yxi3f0UKdmoyrNmqveL88a9QCMaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80321495209-89kalm6bfr4g70g3birpg5hhlqqahhc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
